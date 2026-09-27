@@ -1,6 +1,3 @@
 ### Hi, I'm Tom 👋
 
-- **Apps** — full-stack engineer, mostly TypeScript, React and Node.
-- **Infra** — Proxmox homelab, networking and self-hosted services.
-- **Security** — offensive security: pentesting labs and CTF boxes.
-- **Linux** — Arch + Hyprland and Neovim.
+I'm a full-stack developer with a strong focus on cybersecurity. I build web apps, run my own infrastructure, and like understanding how systems work—and how they break.
